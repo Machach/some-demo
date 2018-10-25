@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">PopupDemo</string>
+    <string name="addOne">加一</string>
+    <string name="subOne">减一</string>
+    <string name="total">总数</string>
+</resources>
